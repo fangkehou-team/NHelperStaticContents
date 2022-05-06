@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=CN, O=FuckGFW Foundation, CN=Pixiv.net
+        Validity
+            Not Before: May  4 11:48:16 2022 GMT
+            Not After : May  4 11:48:16 2023 GMT
+        Subject: C=CN, O=FuckGFW Foundation, CN=PixivCA
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b0:cb:93:0a:d2:d4:9a:9c:23:bc:1b:73:2f:51:
+                    e6:0e:df:0b:db:61:14:5d:f0:4a:4c:06:33:25:34:
+                    58:39:ed:10:50:eb:39:38:20:65:69:8b:3f:3a:51:
+                    21:43:09:ce:cf:8c:32:c9:0f:e5:41:1b:42:0a:32:
+                    6a:57:56:51:79:15:df:ae:b2:10:f3:54:31:b3:3a:
+                    8c:b1:56:aa:cf:45:00:22:d9:2a:87:7b:cb:3c:0a:
+                    03:3b:1e:c6:e2:6b:46:44:3c:40:0e:22:7f:45:d8:
+                    ac:76:de:f2:78:cc:7a:3d:f9:e4:52:34:91:3d:f7:
+                    00:2c:1d:c2:c7:48:34:28:73:0d:62:61:84:11:65:
+                    32:62:b7:ca:14:cb:86:10:9c:85:26:36:9a:da:25:
+                    66:2c:a7:84:d2:a7:5b:f0:a7:46:08:56:f3:ca:c2:
+                    48:93:19:a4:e6:c6:6e:52:50:78:7c:be:e5:43:ab:
+                    c9:c6:3c:19:ef:44:35:6f:af:2c:ea:68:1c:7b:d9:
+                    ef:d3:9c:3d:87:96:d3:e8:8c:45:5f:10:20:7c:ce:
+                    0f:87:55:8b:2c:59:79:80:a4:be:ca:ed:54:dc:20:
+                    de:82:44:3c:98:15:81:09:55:33:cf:17:f3:88:28:
+                    d8:c0:6b:82:4b:1f:ed:4b:b4:d0:11:94:40:ad:18:
+                    ee:f9
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Alternative Name: 
+                DNS:*.pixiv.net, DNS:pixiv.net, DNS:*.secure.pixiv.net, DNS:pixivision.net, DNS:*.pixivision.net, DNS:pixiv.me, DNS:*.pixiv.me, DNS:pximg.net, DNS:*.pximg.net, DNS:pixivsketch.net, DNS:*.pixivsketch.net, DNS:public-api.secure.pixiv.net, DNS:wikipedia.org, DNS:*.wikipedia.org, DNS:m.wikipedia.org, DNS:*.m.wikipedia.org, DNS:google.com, DNS:*.google.com, DNS:steamcommunity.com, DNS:*.steamcommunity.com, DNS:steampowered.com, DNS:*.steampowered.com, DNS:archiveofourown.org, DNS:*.archiveofourown.org, DNS:nyaa.si, DNS:*.nyaa.si, DNS:wikimedia.org, DNS:upload.wikimedia.org, DNS:exhentai.org, DNS:e-hentai.org, DNS:forums.e-hentai.org
+            X509v3 Subject Key Identifier: 
+                BF:6E:D2:15:1F:B6:07:7B:75:65:DD:E4:79:D6:29:F0:A7:88:0A:04
+            X509v3 Authority Key Identifier: 
+                DirName:/C=CN/O=FuckGFW Foundation/CN=Pixiv.net
+                serial:34:96:A5:1D:E9:BD:D9:CE:A5:93:4C:85:1D:BC:FC:5D:CF:10:0B:07
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        86:c5:5f:6b:64:48:34:a5:08:9e:c6:a7:79:5c:e7:5e:a9:3e:
+        29:30:07:87:fa:27:df:7a:aa:74:e3:02:5d:72:cf:59:79:af:
+        4e:00:3d:5b:d0:d5:f7:e4:52:e7:ff:2c:34:87:81:e8:d0:75:
+        9c:fd:62:63:27:75:53:4c:b4:17:82:69:e3:fe:6f:36:82:00:
+        20:e6:87:3e:eb:65:69:23:ee:79:04:e8:53:50:f7:97:1a:29:
+        36:ca:21:b1:02:5e:49:7b:c1:8e:d8:d3:d3:0a:20:82:40:90:
+        a6:21:e0:93:3b:26:2d:ce:3c:37:d1:c3:ea:86:c7:76:95:ae:
+        18:2a:97:a1:a6:38:5b:97:c3:7b:36:2e:d0:f1:d2:ea:b0:09:
+        06:ec:a4:62:57:69:45:e9:b6:35:ba:17:09:80:65:d4:96:a8:
+        ad:2b:6a:c7:4c:51:ee:ea:e7:3a:3e:40:df:c4:15:6e:95:ad:
+        c6:3c:e9:4c:64:d3:08:51:e3:28:27:8d:08:8f:d4:04:bf:50:
+        f6:4a:06:a3:ec:b2:d5:f6:fa:14:6e:f3:19:27:d3:f3:01:b1:
+        92:7b:70:e1:b9:82:df:a1:48:1f:44:fa:c8:6c:7a:7e:c4:69:
+        5f:fa:d4:90:fd:29:fb:64:9c:02:ef:59:81:30:51:51:59:3b:
+        ec:ce:54:d3
+-----BEGIN CERTIFICATE-----
+MIIFyDCCBLCgAwIBAgIBATANBgkqhkiG9w0BAQsFADA+MQswCQYDVQQGEwJDTjEb
+MBkGA1UECgwSRnVja0dGVyBGb3VuZGF0aW9uMRIwEAYDVQQDDAlQaXhpdi5uZXQw
+HhcNMjIwNTA0MTE0ODE2WhcNMjMwNTA0MTE0ODE2WjA8MQswCQYDVQQGEwJDTjEb
+MBkGA1UECgwSRnVja0dGVyBGb3VuZGF0aW9uMRAwDgYDVQQDDAdQaXhpdkNBMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsMuTCtLUmpwjvBtzL1HmDt8L
+22EUXfBKTAYzJTRYOe0QUOs5OCBlaYs/OlEhQwnOz4wyyQ/lQRtCCjJqV1ZReRXf
+rrIQ81QxszqMsVaqz0UAItkqh3vLPAoDOx7G4mtGRDxADiJ/Rdisdt7yeMx6Pfnk
+UjSRPfcALB3Cx0g0KHMNYmGEEWUyYrfKFMuGEJyFJjaa2iVmLKeE0qdb8KdGCFbz
+ysJIkxmk5sZuUlB4fL7lQ6vJxjwZ70Q1b68s6mgce9nv05w9h5bT6IxFXxAgfM4P
+h1WLLFl5gKS+yu1U3CDegkQ8mBWBCVUzzxfziCjYwGuCSx/tS7TQEZRArRju+QID
+AQABo4IC0TCCAs0wCwYDVR0PBAQDAgeAMB0GA1UdJQQWMBQGCCsGAQUFBwMBBggr
+BgEFBQcDAjAJBgNVHRMEAjAAMIICDgYDVR0RBIICBTCCAgGCCyoucGl4aXYubmV0
+gglwaXhpdi5uZXSCEiouc2VjdXJlLnBpeGl2Lm5ldIIOcGl4aXZpc2lvbi5uZXSC
+ECoucGl4aXZpc2lvbi5uZXSCCHBpeGl2Lm1lggoqLnBpeGl2Lm1lgglweGltZy5u
+ZXSCCyoucHhpbWcubmV0gg9waXhpdnNrZXRjaC5uZXSCESoucGl4aXZza2V0Y2gu
+bmV0ghtwdWJsaWMtYXBpLnNlY3VyZS5waXhpdi5uZXSCDXdpa2lwZWRpYS5vcmeC
+Dyoud2lraXBlZGlhLm9yZ4IPbS53aWtpcGVkaWEub3JnghEqLm0ud2lraXBlZGlh
+Lm9yZ4IKZ29vZ2xlLmNvbYIMKi5nb29nbGUuY29tghJzdGVhbWNvbW11bml0eS5j
+b22CFCouc3RlYW1jb21tdW5pdHkuY29tghBzdGVhbXBvd2VyZWQuY29tghIqLnN0
+ZWFtcG93ZXJlZC5jb22CE2FyY2hpdmVvZm91cm93bi5vcmeCFSouYXJjaGl2ZW9m
+b3Vyb3duLm9yZ4IHbnlhYS5zaYIJKi5ueWFhLnNpgg13aWtpbWVkaWEub3JnghR1
+cGxvYWQud2lraW1lZGlhLm9yZ4IMZXhoZW50YWkub3JnggxlLWhlbnRhaS5vcmeC
+E2ZvcnVtcy5lLWhlbnRhaS5vcmcwHQYDVR0OBBYEFL9u0hUftgd7dWXd5HnWKfCn
+iAoEMGMGA1UdIwRcMFqhQqRAMD4xCzAJBgNVBAYTAkNOMRswGQYDVQQKDBJGdWNr
+R0ZXIEZvdW5kYXRpb24xEjAQBgNVBAMMCVBpeGl2Lm5ldIIUNJalHem92c6lk0yF
+Hbz8Xc8QCwcwDQYJKoZIhvcNAQELBQADggEBAIbFX2tkSDSlCJ7Gp3lc516pPikw
+B4f6J996qnTjAl1yz1l5r04APVvQ1ffkUuf/LDSHgejQdZz9YmMndVNMtBeCaeP+
+bzaCACDmhz7rZWkj7nkE6FNQ95caKTbKIbECXkl7wY7Y09MKIIJAkKYh4JM7Ji3O
+PDfRw+qGx3aVrhgql6GmOFuXw3s2LtDx0uqwCQbspGJXaUXptjW6FwmAZdSWqK0r
+asdMUe7q5zo+QN/EFW6VrcY86Uxk0whR4ygnjQiP1AS/UPZKBqPsstX2+hRu8xkn
+0/MBsZJ7cOG5gt+hSB9E+shsen7EaV/61JD9KftknALvWYEwUVFZO+zOVNM=
+-----END CERTIFICATE-----

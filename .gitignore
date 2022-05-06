@@ -1,0 +1,5 @@
+/.idea/
+/nginx/aarch64/
+/nginx/arm/
+/nginx/i686/
+/nginx/x86_64/
