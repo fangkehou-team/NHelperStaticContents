@@ -1,0 +1,35 @@
+{
+  "message": {
+    "time": 1651890351,
+    "note": "欢迎使用NHelper哦！\n这是这个项目从开始以来发布的第二个测试版，暂且称之为beta2吧。\n毕竟是测试版，所以有问题再正常不过了，如果你遇到了什么问题请直接问哦，\n在关于页面可以找到反馈的入口。嘛，当然你要是想来闲聊的话我更开心哦！\n最后的最后，祝大家使用开心哦！"
+  },
+  "config": {
+    "time": 1651890351,
+    "note": "配置文件的第一个版本呢，其实说是第一个版本，只不过是",
+    "link": "https://nhelper.fangkehou.eu.org/config/nginx.conf"
+  },
+  "domain_list": {
+    "sni_list": {
+      "time": 1651890351,
+      "note": "目前只有蓝白p站，维基，和e站表里站呢，其他的网站我会酌情考虑添加的.\n如果你有什么想看的站请告诉我哦，我会考虑的",
+      "link": "https://nhelper.fangkehou.eu.org/config/sni_list.txt"
+    },
+    "ad_list": {
+      "time": 1651890351,
+      "note": "还什么也没有呢，日后会添加的！",
+      "link": "https://nhelper.fangkehou.eu.org/config/ad_list.txt"
+    },
+    "cf_list": {
+      "time": 1651890351,
+      "note": "目前只有n站在列表里呢。。。。嘛如果可以的话我会考虑天际一些其他的网站哦！",
+      "link": "https://nhelper.fangkehou.eu.org/config/cf_list.txt"
+    }
+  },
+  "application": {
+    "time": 1651890351,
+    "version": "1.0beta",
+    "version_code": 1,
+    "note": "NHelper的第一个版本，出现问题还望海涵呐！\n目前测试主要是针对蓝白p站和n站进行，在后期会逐步地增加功能，敬请期待吧！",
+    "link": "https://nhelper.fangkehou.eu.org/releases/nhelper_1.0_beta_20220507.apk"
+  }
+}
