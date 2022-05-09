@@ -9,21 +9,9 @@
     "link": "https://nhelper.fangkehou.eu.org/config/nginx.conf"
   },
   "domain_list": {
-    "sni_list": {
-      "time": 1651890351,
-      "note": "目前只有蓝白p站，维基，和e站表里站呢，其他的网站我会酌情考虑添加的.\n如果你有什么想看的站请告诉我哦，我会考虑的",
-      "link": "https://nhelper.fangkehou.eu.org/config/sni_list.txt"
-    },
-    "ad_list": {
-      "time": 1651890351,
-      "note": "还什么也没有呢，日后会添加的！",
-      "link": "https://nhelper.fangkehou.eu.org/config/ad_list.txt"
-    },
-    "cf_list": {
-      "time": 1651890351,
-      "note": "目前只有n站在列表里呢。。。。嘛如果可以的话我会考虑天际一些其他的网站哦！",
-      "link": "https://nhelper.fangkehou.eu.org/config/cf_list.txt"
-    }
+    "time": 1651890351,
+    "note": "目前只有蓝白p站，维基，和e站表里站呢，其他的网站我会酌情考虑添加的.\n如果你有什么想看的站请告诉我哦，我会考虑的",
+    "link": "https://nhelper.fangkehou.eu.org/config/domain_list.txt"
   },
   "application": {
     "time": 1651890351,

@@ -1,0 +1,15 @@
+nhentai.net,C
+.nhentai.net,C
+pixiv.net,S
+.pixiv.net,S
+wikipedia.org,S
+.wikipedia.org,S
+e-hentai.org,S
+.e-hentai.org,S
+exhentai.org,S
+.exhentai.org,S
+google.com,S
+mairuan.com,A
+.mairuan.com,A
+makeding.com,A
+.makeding.com,A
