@@ -5,12 +5,12 @@
   },
   "config": {
     "time": 1651890351,
-    "note": "配置文件的第一个版本呢，其实说是第一个版本，只不过是",
+    "note": "配置文件的第一个版本呢，其实说是第一个版本，但如果没有人说想要添加什么东西的话应该也就是最后一版了。。。。",
     "link": "https://nhelper.fangkehou.eu.org/config/nginx.conf"
   },
   "domain_list": {
     "time": 1651890351,
-    "note": "目前只有蓝白p站，维基，和e站表里站呢，其他的网站我会酌情考虑添加的.\n如果你有什么想看的站请告诉我哦，我会考虑的",
+    "note": "目前只有蓝白p站，n站，维基，和e站表里站呢，其他的网站我会酌情考虑添加的.\n如果你有什么想看的站请告诉我哦，我会考虑的",
     "link": "https://nhelper.fangkehou.eu.org/config/domain_list.txt"
   },
   "application": {
